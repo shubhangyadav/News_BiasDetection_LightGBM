@@ -1,4 +1,4 @@
-## Bias detection in news articles using LightGBM with Focal Issues
+## Bias Detection in News Articles using LightGBM with Focal Issues
 This repository explores the idea of identifying whether or not a news article is biased, and if yes, towards which side.
 I have used Microsoft's LightGBM Multi-class Classifier with Focal Loss for this purpose.
 
