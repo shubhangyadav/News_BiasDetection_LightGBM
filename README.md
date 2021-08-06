@@ -22,7 +22,7 @@ Here, we will focus on predicting the bias level of an incoming article.
 | LightGBM (with Focal Loss)      | 0.9105   | 0.9166    | 0.8870 | 
 
 ### Conclusion
-With Focal Loss, the evaluation metrics achieve a higher score and we get a more reliable model.
+With Focal Loss, the evaluation metrics achieve a higher score and we get a more reliable model for identifying biased news articles.
 
 ### References
 [[1] Hyperpartisan News Detection Dataset](https://huggingface.co/datasets/hyperpartisan_news_detection) <br />
